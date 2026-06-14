@@ -1,0 +1,46 @@
+{
+  "user_id": 1,
+  "profile": {
+    "age": 56,
+    "occupation": "Content Creator",
+    "work_mode": "Office"
+  },
+  "device_usage": {
+    "device_usage_type": "Entertainment-Centric",
+    "daily_screen_time": 8.8,
+    "social_media_hours": 5.0,
+    "doomscrolling_duration": 1.2,
+    "app_switch_frequency": 41,
+    "notification_count": 112,
+    "smartphone_unlocks": 49,
+    "late_night_device_usage": 1
+  },
+  "work_patterns": {
+    "focus_sessions": 3,
+    "deep_work_hours": 6.0,
+    "distraction_frequency": 67,
+    "task_completion_rate": 92,
+    "concentration_score": 2,
+    "meeting_hours": 2.8,
+    "remote_work_days": 4
+  },
+  "wellbeing": {
+    "sleep_hours": 5.9,
+    "sleep_quality": 10,
+    "caffeine_intake": 6,
+    "physical_activity": 1.6,
+    "stress_level": 10,
+    "workspace_quality": 5,
+    "internet_stability": 3,
+    "motivation_level": 8.0,
+    "mental_fatigue": 10,
+    "emotional_exhaustion": 4,
+    "work_satisfaction": 8,
+    "mental_state": "Balanced"
+  },
+  "scores": [
+    {"metric": "burnout_risk", "value": 46},
+    {"metric": "productivity_score", "value": 100}
+  ],
+  "productivity_category": "High"
+}
